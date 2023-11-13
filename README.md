@@ -1,4 +1,4 @@
-<h1 align="center">|Dio | Desafio | C# | Estacionamento | 💻 </h1>
+<h1 align="center">|DIO | Desafio | C# | Estacionamento | 💻 </h1>
 
 <p align="center"> <a href="https://web.dio.me/home" target="_blank">DIO</a> - C# - <a href="https://www.dio.me/users/vteider" target="_blank">Skill</a> 
 <p align="center">
@@ -22,7 +22,8 @@ Imagem Teste Projeto Estacionamento Funcionou Perfeitamente
 Esse projeto foi desenvolvindo com as seguintes tecnologias:
 
 - IDE VisualStudio Code
-- C# 
+- C#
+- .NET
 - Git e Github
 
 # Autor
